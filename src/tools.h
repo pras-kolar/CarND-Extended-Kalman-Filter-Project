@@ -3,6 +3,7 @@
 
 #include <vector>
 #include "Eigen/Dense"
+#include <math.h>
 
 class Tools {
  public:
